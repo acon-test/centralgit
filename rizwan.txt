@@ -1,1 +1,4 @@
 Hello Rizwan
+=======
+Hi Rizwan kya haal hai
+>>>>>>> branch1
